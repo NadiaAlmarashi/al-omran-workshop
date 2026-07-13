@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { siteData } from './data'; 
+import { siteData } from './Data'; 
 
 // استيراد الأصول
 import greenPattern from './assets/green-pattern.png';
