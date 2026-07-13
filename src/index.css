@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-dark: #153835;
+  --color-primary-green: #1A4846;
+  --color-accent-gold: #B79048;
+  --color-accent-darkgold: #A88143;
+}
+
+body {
+  font-family: 'Tajawal', 'Cairo', sans-serif;
+  background-color: var(--color-primary-dark);
+  margin: 0;
+  color: #F5F5F5;
+}
